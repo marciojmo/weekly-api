@@ -1,0 +1,11 @@
+click==7.1.2
+Flask==1.1.2
+flask-rest-decorators @ file:///C:/Users/Marcio/Desktop/dev/flask-rest-decorators/dist/flask_rest_decorators-0.0.1-py3-none-any.whl
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+marshmallow==3.11.1
+mongoengine==0.23.0
+pymongo==3.11.3
+rope==0.18.0
+Werkzeug==1.0.1
